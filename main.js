@@ -221,7 +221,7 @@ function filterCourses() {
     
     let filteredCourses = courses;
     
-    if (currentCategory !== 'all') {
+    if (currentCategory !== 'Batchsheet') {
         filteredCourses = filteredCourses.filter(course => 
             course.category === currentCategory
         );

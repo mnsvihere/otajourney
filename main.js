@@ -175,7 +175,7 @@ const courses = [
     }
 ];
 
-let currentCategory = 'all';
+let currentCategory = 'Batchsheet';
 
 function createCourseCard(course) {
     const card = document.createElement('div');

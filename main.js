@@ -175,7 +175,7 @@ const courses = [
     }
 ];
 
-let currentCategory = 'Batchsheet';
+let currentCategory = 'all';
 
 function createCourseCard(course) {
     const card = document.createElement('div');
@@ -221,7 +221,7 @@ function filterCourses() {
     
     let filteredCourses = courses;
     
-    if (currentCategory !== 'Batchsheet') {
+    if (currentCategory !== 'all') {
         filteredCourses = filteredCourses.filter(course => 
             course.category === currentCategory
         );

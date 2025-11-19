@@ -197,7 +197,18 @@ const courses = [
         category: "Physical Geography",
         videoUrl: "https://us06web.zoom.us/rec/share/D3wZ-OD1mT48uy4n8gXYT8TitM4pXwIbcIrtOWwOgR0BAJfze1JuI5qriKhT88Uo.IP1Qtx8umLfCzmZh?startTime=1763475854000"
     },
-    
+    {
+        number: 3,
+        title: "Climatology 3",
+        category: "Physical Geography",
+        videoUrl: 'https://us06web.zoom.us/rec/share/8UyY49L9RZ6kEd-rumfXj3OFbQq1kh6TfvPyPbbddpMsYskP-lkxP_Zf6xT1FnPm.JgNdksnYbYJvZ6mU?startTime=1763557206000'
+    },
+     {
+        number: 4,
+        title: "Climatology 4",
+        category: "Physical Geography",
+        videoUrl:  'https://us06web.zoom.us/rec/share/8UyY49L9RZ6kEd-rumfXj3OFbQq1kh6TfvPyPbbddpMsYskP-lkxP_Zf6xT1FnPm.JgNdksnYbYJvZ6mU?startTime=1763562449000'
+    },
 ];
 
 let currentCategory = 'all';

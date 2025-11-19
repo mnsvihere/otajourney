@@ -184,7 +184,20 @@ const courses = [
         title: "Protein wali bimari",
         category: "One Pager",
         videoUrl: "https://us06web.zoom.us/rec/share/5Q8eVxxZOwcjHKphlXaK_eU6gAgcmZgKoe2TUUmR7YPLpysqGYY_7FppgojouOk.hAC8HYsp9aBnOnYg?startTime=1762347252000"
-    }
+    },
+     {
+        number: 1,
+        title: "Climatology 1",
+        category: "Physical Geography",
+        videoUrl: "https://us06web.zoom.us/rec/share/D3wZ-OD1mT48uy4n8gXYT8TitM4pXwIbcIrtOWwOgR0BAJfze1JuI5qriKhT88Uo.IP1Qtx8umLfCzmZh?startTime=1763470925000"
+    },
+     {
+        number: 2,
+        title: "Climatology 2",
+        category: "Physical Geography",
+        videoUrl: "https://us06web.zoom.us/rec/share/D3wZ-OD1mT48uy4n8gXYT8TitM4pXwIbcIrtOWwOgR0BAJfze1JuI5qriKhT88Uo.IP1Qtx8umLfCzmZh?startTime=1763475854000"
+    },
+    
 ];
 
 let currentCategory = 'all';

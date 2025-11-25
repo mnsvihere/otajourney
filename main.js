@@ -209,6 +209,36 @@ const courses = [
         category: "Physical Geography",
         videoUrl:  'https://us06web.zoom.us/rec/share/8UyY49L9RZ6kEd-rumfXj3OFbQq1kh6TfvPyPbbddpMsYskP-lkxP_Zf6xT1FnPm.JgNdksnYbYJvZ6mU?startTime=1763562449000'
     },
+    {
+        number: 5,
+        title: "Climatology 5",
+        category: "Physical Geography",
+        videoUrl:  "https://us06web.zoom.us/rec/share/e6kMVXUmun5jx4_EYgj5ixJl3niCqLxjNnlotS20O8B-lazYjTVrREXaD5qwFeXr.F_DzvLY25rnRq6mG"
+    },
+    {
+        number: 6,
+        title: " Oceanography Class 1 ",
+        category: "Physical Geography",
+        videoUrl: "https://us06web.zoom.us/rec/share/HsxiBxl2gJrW8kDNHzL-bSSqds1SdOh4d3inUJ_J_lk0pty6X27A1snu76HMh5Ou.yQCj8W-DsXtH55gB?startTime=1763886517000"
+    },
+    {
+        number: 7,
+        title: " Oceanography Class 2",
+        category: "Physical Geography",     
+        videoUrl: "https://us06web.zoom.us/rec/share/HsxiBxl2gJrW8kDNHzL-bSSqds1SdOh4d3inUJ_J_lk0pty6X27A1snu76HMh5Ou.yQCj8W-DsXtH55gB?startTime=1763891961000"
+    },
+    {
+        number: 8,
+        title: "Oceanography Class 3",
+        category: "Physical Geography",
+        videoUrl: "https://us06web.zoom.us/rec/share/HsxiBxl2gJrW8kDNHzL-bSSqds1SdOh4d3inUJ_J_lk0pty6X27A1snu76HMh5Ou.yQCj8W-DsXtH55gB?startTime=1763894841000" 
+    },
+    {
+        number: 9,
+        title: "Geomorphic Process + Chemical Weathering",
+        category: "Physical Geography",
+        videoUrl: "https://us06web.zoom.us/rec/share/pUhB2f3cmK08r-atssm1v_CPjeDsnRJmHiIaTCVZgmB4W18HAubtGTAWKh6HIYMX.ABSAdO_MXNryRq3s?startTime=1764075537000"
+    }
 ];
 
 let currentCategory = 'all';

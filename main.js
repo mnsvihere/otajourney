@@ -238,7 +238,13 @@ const courses = [
         title: "Geomorphic Process + Chemical Weathering",
         category: "Physical Geography",
         videoUrl: "https://us06web.zoom.us/rec/share/pUhB2f3cmK08r-atssm1v_CPjeDsnRJmHiIaTCVZgmB4W18HAubtGTAWKh6HIYMX.ABSAdO_MXNryRq3s?startTime=1764075537000"
-    }
+    },
+    {
+        number: 10,
+        title: "Physical Weathering + Mass movements + PYQs",
+        category: "Physical Geography",
+        videoUrl: "https://us06web.zoom.us/rec/share/pUhB2f3cmK08r-atssm1v_CPjeDsnRJmHiIaTCVZgmB4W18HAubtGTAWKh6HIYMX.ABSAdO_MXNryRq3s?startTime=1764080038000"
+     },
 ];
 
 let currentCategory = 'all';

@@ -246,14 +246,14 @@ const courses = [
         videoUrl: "https://us06web.zoom.us/rec/share/pUhB2f3cmK08r-atssm1v_CPjeDsnRJmHiIaTCVZgmB4W18HAubtGTAWKh6HIYMX.ABSAdO_MXNryRq3s?startTime=1764080038000"
      },
     {
-     number: 10,
-        title:  " Question Tag 1 ",
+     number: 11,
+        title:  " Question Tag 2 ",
         category: "English",
         videoUrl: " https://us06web.zoom.us/rec/share/eXTtCW-1tsr95pq_2ZrhCdLuvX3zgetBwf0zWSBV-XnQpYZowcLxStxauN_SWE6b.KMfkkV9PqWi8cWb2?startTime=1764162534000"
 },
     {
-        number: 10,
-        title:  " Question Tag 1 ",
+        number: 12,
+        title:  " S1-S6 Tricks + PYQs ",
         category: "English",
         videoUrl: "https://us06web.zoom.us/rec/share/eXTtCW-1tsr95pq_2ZrhCdLuvX3zgetBwf0zWSBV-XnQpYZowcLxStxauN_SWE6b.KMfkkV9PqWi8cWb2?startTime=1764167953000"
     }

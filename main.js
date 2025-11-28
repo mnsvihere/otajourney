@@ -256,8 +256,20 @@ const courses = [
         title:  " S1-S6 Tricks + PYQs ",
         category: "English",
         videoUrl: "https://us06web.zoom.us/rec/share/eXTtCW-1tsr95pq_2ZrhCdLuvX3zgetBwf0zWSBV-XnQpYZowcLxStxauN_SWE6b.KMfkkV9PqWi8cWb2?startTime=1764167953000"
-    }
-];
+    },
+    {
+        number: 11,
+        title: "Earthquake",
+        category: "Physical Geography",
+        videoUrl: "https://us06web.zoom.us/rec/share/PpfKS2YET8Q_Wm0aCnW7dnvHS7FkH0lQrkI7u6uPv_Qxx3Ypp8IN_hLqr-e4vf1R.mDNmzLP_7tmb_l5S?startTime=1764248384000"
+    },
+    {
+        number: 12,
+        title: "Volcano",
+        category: "Physical Geography",
+        videoUrl: "https://us06web.zoom.us/rec/share/PpfKS2YET8Q_Wm0aCnW7dnvHS7FkH0lQrkI7u6uPv_Qxx3Ypp8IN_hLqr-e4vf1R.mDNmzLP_7tmb_l5S?startTime=1764253304000"
+     },
+ ];
 
 let currentCategory = 'all';
 

@@ -269,6 +269,12 @@ const courses = [
         category: "Physical Geography",
         videoUrl: "https://us06web.zoom.us/rec/share/PpfKS2YET8Q_Wm0aCnW7dnvHS7FkH0lQrkI7u6uPv_Qxx3Ypp8IN_hLqr-e4vf1R.mDNmzLP_7tmb_l5S?startTime=1764253304000"
      },
+    {
+        number: 13,
+        title: "Plate Tectonic Theory",
+        category: "Physical Geography",
+        videoUrl: "https://us06web.zoom.us/rec/share/TR-KU7aM4xyxJG7MCEFPnQ9IIhYSmYicmJqQk2WQUGwoL0p-VIQhEsVtCDJ1cg0L.7B8dG0BXkv_JWlb_?startTime=1764336151000"
+    }
  ];
 
 let currentCategory = 'all';
